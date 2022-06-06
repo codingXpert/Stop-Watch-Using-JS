@@ -3,8 +3,42 @@ body{
     background: url('https://images.pexels.com/photos/604684/pexels-photo-604684.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     background-repeat: no-repeat;
     background-size:cover;
-    /* background-position:center; */
 }
+
+/* logo */
+#logo{
+    background-image: url('./img/img.png');
+    position: absolute;
+    top: 10px;
+    left: -55px;
+    height: 55px;
+    width: 55px;
+    background-size: cover;
+}
+
+/* heading-c0ntainer */
+#heading{
+    display: flex;
+    justify-content: center;
+}
+#heading-container{
+   
+ position: absolute;
+ top: 130px;
+
+}
+#heading-container h1{
+        font-size: 30px;
+        font-weight: bold;
+        background: -webkit-linear-gradient(60deg, #00f6f6, #f5fd01);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: monospace;
+    
+    
+}
+
+/* Main container */
 .container{
     background-color: #fff;
     padding: 20px 0;
@@ -16,6 +50,8 @@ body{
     position: absolute;
     border-radius: 7px;
 }
+
+/* styling timerDisplay box */
 .timerDisplay{
     position: relative;
     width: 92%;
@@ -33,6 +69,8 @@ body{
     font-weight: 500;
 
 }
+
+/* Button container */
 .buttonsContainer{
     width: 90%;
     margin: 60px auto 0 auto;
