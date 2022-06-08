@@ -3,7 +3,7 @@ An ultra-simple `HTML` + `CSS` + `JavaScript` Stopwatch
 
 # Technology Used
 **_1.HTML_**
-**_2.CSS_**
+## **_2.CSS_**
 **_3.JavaScript_**
 ## Why?
 
