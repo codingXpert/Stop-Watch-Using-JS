@@ -5,6 +5,12 @@ An ultra-simple `HTML` + `CSS` + `JavaScript` Stopwatch
 **_1.HTML_** <br />
 **_2.CSS_** <br />
 **_3.JavaScript_** <br />
+
+# Screenshorts
+![Screenshot 1](https://user-images.githubusercontent.com/101451924/172603761-a9735799-1521-4025-bdb8-37f35c8dff48.png)
+![Screenshot 2](https://user-images.githubusercontent.com/101451924/172603783-f3f1ed21-3e84-45b5-b053-44b62e143d01.png)
+
+
 ## Why?
 
 Helping people learn how to code requires a *simple* but *functional* example.
