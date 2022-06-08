@@ -2,9 +2,9 @@
 An ultra-simple `HTML` + `CSS` + `JavaScript` Stopwatch
 
 # Technology Used
-** 1.HTML
-** 2.CSS **
-** 3.JavaScript **
+**_1.HTML_**
+**_2.CSS_**
+**_3.JavaScript_**
 ## Why?
 
 Helping people learn how to code requires a *simple* but *functional* example.
